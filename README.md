@@ -48,6 +48,9 @@ Enemy behavior is divided into independent components such as:
 
 All communication is handled through a central mediator, avoiding direct dependencies between components.
 
+![Enemy AI components using FSM + ScriptableObjects. Modular behavior system.](Media/Enemy1.png)
+![Enemy AI components using FSM + ScriptableObjects. Modular behavior system.](Media/Enemy2.png)
+
 ---
 
 ### Movement System
