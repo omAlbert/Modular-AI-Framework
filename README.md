@@ -144,7 +144,7 @@ Defines attack-related values and behavior parameters.
 
 ## Dependencies
 
-This framework is built to work seamlessly with my **[Advanced Timer System](https://github.com/omAlbert/Unity-advanced-timer-system)**. Instead of using `Coroutines` or manual `Time.deltaTime` checks inside the AI components, the system schedules:
+This framework is built to work seamlessly with my **[Advanced Timer System](https://github.com/omAlbert/Unity-advanced-timer-system)**.
 
 ## Technologies
 
